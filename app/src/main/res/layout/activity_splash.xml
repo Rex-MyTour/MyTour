@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#232323"
+    tools:context="apps.dabinu.com.tourapp.activities.SplashActivity">
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/logo"
+        android:src="@drawable/iconmainsplash"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MyTour"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:textAllCaps="false"
+        android:fontFamily="casual"
+        android:textSize="23sp"
+        android:textColor="#ffffff"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rexopakt Solutiions © 2018"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="15sp"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="7dp"
+        android:layout_marginEnd="7dp"/>
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:id="@+id/progressBar"
+        android:layout_marginBottom="120dp" />
+</RelativeLayout>

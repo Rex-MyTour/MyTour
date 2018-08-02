@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "655673947518",
+    "firebase_url": "https://mytour-7ceae.firebaseio.com",
+    "project_id": "mytour-7ceae",
+    "storage_bucket": "mytour-7ceae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655673947518:android:490be9ad6d44ee37",
+        "android_client_info": {
+          "package_name": "apps.dabinu.com.mytour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655673947518-shqldekc2rvkkid93vf408sje5ulle8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.dabinu.com.mytour",
+            "certificate_hash": "ec1c66e09315a1431d1c1c46f618df7ec6059d18"
+          }
+        },
+        {
+          "client_id": "655673947518-uoc6q6eqd15u0cc6quhkuqnk8mg30to7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.dabinu.com.mytour",
+            "certificate_hash": "20c43aac4c85b3719ed5c9aa38049ed098f065a3"
+          }
+        },
+        {
+          "client_id": "655673947518-u6lbjoorhkikesrkev99ef7bikdcuu2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8pIqpWBySws0VZ-CVMBHJMFiwg-OKbk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655673947518-u6lbjoorhkikesrkev99ef7bikdcuu2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655673947518:android:4f7a0990e7b8778b",
+        "android_client_info": {
+          "package_name": "apps.dabinu.com.tourapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655673947518-ojm78kaqtseggstp4ngns8otl8itn4kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.dabinu.com.tourapp",
+            "certificate_hash": "20c43aac4c85b3719ed5c9aa38049ed098f065a3"
+          }
+        },
+        {
+          "client_id": "655673947518-u6lbjoorhkikesrkev99ef7bikdcuu2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8pIqpWBySws0VZ-CVMBHJMFiwg-OKbk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655673947518-u6lbjoorhkikesrkev99ef7bikdcuu2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
